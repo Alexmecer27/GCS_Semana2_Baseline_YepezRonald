@@ -1,0 +1,4 @@
+# Configuración base
+APP_PORT=8080
+ENV=development
+DB_CONNECTION_STRING=localhost:27017
