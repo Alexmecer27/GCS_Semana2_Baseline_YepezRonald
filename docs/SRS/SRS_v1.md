@@ -9,3 +9,4 @@
 ## Requisitos No Funcionales
 1. **RNF-001**: La interfaz debe cargar en menos de 2 segundos en redes 4G.
 2. **RNF-002**: El código debe estar documentado siguiendo el estándar JSDoc/DocString.
+5. REQ-007: Exportar reportes a PDF.
